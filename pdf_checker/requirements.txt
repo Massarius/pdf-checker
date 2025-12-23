@@ -1,0 +1,12 @@
+pandas
+db-dtypes
+gspread
+PyPDF2
+numpy
+google-cloud-bigquery
+requests
+httplib2
+google-api-python-client
+google-auth
+google-auth-httplib2
+openpyxl
